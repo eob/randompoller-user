@@ -1,0 +1,12 @@
+{
+  "name": ".",
+  "version": "0.5.0",
+  "dependencies": {
+    "eob/randompoller": "*"
+  },
+  "main": "src/index.js",
+  "scripts": [
+    "src/index.js",
+    "src/example.js"
+  ]
+}
